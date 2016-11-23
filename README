@@ -1,1 +1,6 @@
 The project  offers command-line client for DCOS(Data Center Operating System).
+1.Structure
+|-ddcos.go	The entry of command line client
+|-doc-|
+      |-doc.go  Tips for command line client
+      |-cmds.go Methods for command line client	
